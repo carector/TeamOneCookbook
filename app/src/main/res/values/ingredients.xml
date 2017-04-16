@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="egg">Egg</string>
+    <string name="flour">Flour</string>
+    <string name="sugar">Sugar</string>
+    <string name="milk">Milk</string>
+    <string name="cheese">Cheese</string>
+    <string name="bread">Bread</string>
+    <string name="apple">Apple</string>
+    <string name="icecream">Ice Cream</string>
+</resources>
